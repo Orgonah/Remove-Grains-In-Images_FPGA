@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="889" delta="old" >"C:\fpga\HW5\test.v" Line 54: wait statement ignored
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\test.v" Line 58: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">2</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="872" delta="old" >"C:\fpga\HW5\test.v" Line 44: Using initial value of <arg fmt="%s" index="1">start</arg> since it is never assigned
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1499" delta="old" >"C:\fpga\HW5\ipcore_dir\Pic.v" Line 39: Empty module &lt;<arg fmt="%s" index="1">Pic</arg>&gt; remains a black box.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="old" >"C:\fpga\HW5\Picture.v" Line 38: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">dina</arg>&gt;. Formal port size is <arg fmt="%d" index="2">8</arg>-bit while actual signal size is <arg fmt="%d" index="1">1</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 51: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 52: Result of <arg fmt="%d" index="1">17</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">16</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 61: Result of <arg fmt="%d" index="1">17</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">16</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 62: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 67: Result of <arg fmt="%d" index="1">17</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">16</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 68: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 69: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 78: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">16</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 79: Result of <arg fmt="%d" index="1">9</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">8</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 82: Result of <arg fmt="%d" index="1">32</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">16</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 85: Result of <arg fmt="%d" index="1">4</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">3</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 90: Result of <arg fmt="%d" index="1">17</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">16</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="413" delta="old" >"C:\fpga\HW5\Picture.v" Line 94: Result of <arg fmt="%d" index="1">22</arg>-bit expression is truncated to fit in <arg fmt="%d" index="2">21</arg>-bit target.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="634" delta="old" >"C:\fpga\HW5\Picture.v" Line 38: Net &lt;<arg fmt="%s" index="1">dina</arg>&gt; does not have a driver.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\fpga\HW5\test.v" Line 38: Assignment to <arg fmt="%s" index="1">data_valid</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1127" delta="old" >"C:\fpga\HW5\test.v" Line 39: Assignment to <arg fmt="%s" index="1">data_out</arg> ignored, since the identifier is never used
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\fpga\HW5\test.v</arg>&quot; line <arg fmt="%s" index="2">35</arg>: Output port &lt;<arg fmt="%s" index="3">data_out</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">uut</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="info" file="Xst" num="3210" delta="old" >&quot;<arg fmt="%s" index="1">C:\fpga\HW5\test.v</arg>&quot; line <arg fmt="%s" index="2">35</arg>: Output port &lt;<arg fmt="%s" index="3">data_valid</arg>&gt; of the instance &lt;<arg fmt="%s" index="4">uut</arg>&gt; is unconnected or connected to loadless signal.
+</msg>
+
+<msg type="warning" file="Xst" num="653" delta="old" >Signal &lt;<arg fmt="%s" index="1">dina</arg>&gt; is used but never assigned. This sourceless signal will be automatically connected to value <arg fmt="%s" index="2">GND</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">End</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">uut</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">End</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">Picture</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">0</arg>.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">counter_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">Picture</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2170" delta="old" >Unit <arg fmt="%s" index="1">test</arg> : the following signal(s) form a combinatorial loop: </msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/sum_9</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/sum_8</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/sum_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/sum_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/sum_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/sum_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/sum_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/sum_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/sum_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/sum_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/data_out_7</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/data_out_6</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/data_out_5</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/data_out_4</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/data_out_3</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/data_out_2</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/data_out_1</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="2677" delta="old" >Node &lt;<arg fmt="%s" index="1">uut/data_out_0</arg>&gt; of sequential type is unconnected in block &lt;<arg fmt="%s" index="2">test</arg>&gt;.
+</msg>
+
+<msg type="warning" file="Xst" num="1426" delta="old" >The value init of the FF/Latch <arg fmt="%s" index="1">uut/flag</arg> hinder the constant cleaning in the block <arg fmt="%s" index="2">test</arg>.
+You should achieve better results by setting this init to <arg fmt="%i" index="3">1</arg>.
+</msg>
+
+<msg type="info" file="Xst" num="2169" delta="old" >HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+</msg>
+
+</messages>
+
